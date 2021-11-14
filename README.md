@@ -10,7 +10,8 @@ put in place a parent class (called BaseModel) to take care of the initializatio
 -   create the first abstracted storage engine of the project: File storage.
 -   create all unittests to validate all our classes and storage engine.
 
-    Command Interpreter
+                                         Command Interpreter
+                                         
 The Command Interpreter is used to manage the whole application's functionality from the command line, such as:
 
 -   Create a new object.
